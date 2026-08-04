@@ -1,7 +1,5 @@
 # 💫 Hi 👋, I'm Chiranjib Sahoo
-**A passionate High School Student || AI Enthusiast and Learner || India**
-
-<div data-importer="image" align="center">
+**A passionate High School Student || AI Enthusiast and Learner || India** <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
