@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Chiranjib Sahoo
 **A passionate High School Student || AI Enthusiast and Learner || India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **chiranjibsahoo2010@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Vercel App Projects 
 - 🌱 **I’m currently learning:** Python and SQL
@@ -9,6 +9,7 @@ Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anyt
 - 📫 **How to reach me:** chiranjibsahoo2010@gmail.com
 - 😄 **Pronouns:** Chiru
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🏆 **Achievments:** Class 10th Board Exam School Topper with **97.4%** and Active Music Performer
 
 ## 🔗 I am a Content Creator over Music and Self Improvement. 😊😊
 
