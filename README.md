@@ -48,6 +48,8 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31obfjlxacjwnzzt5slxm3tih45y)
 
+##
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -73,6 +75,16 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 ### 🔝 Top Contributed Repo
 ![](https://nsfsacademydevli.vercel.app/)
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sparkfulmind07/sparkfulmind07/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sparkfulmind07/sparkfulmind07/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sparkfulmind07/sparkfulmind07/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
 
 
 
