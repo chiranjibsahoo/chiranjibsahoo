@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **chiranjibsahoo2010@gmail.com** For Collaboration/Project 
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-[![Chiranjib Sahoo YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/@chiranjibsahoo7) [![Sparkful Mind Youtube](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Sparkful Mind X](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://x.com/SparkfulMind) [![Chiranib Sahoo X](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://x.com/Chiranjib7Sahoo)
+[![Chiranjib Sahoo YouTube Channel](https://www.youtube.com/@chiranjibsahoo7) [![Sparkful Mind Youtube](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Sparkful Mind X](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://x.com/SparkfulMind) [![Chiranib Sahoo X](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://x.com/Chiranjib7Sahoo)
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
