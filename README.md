@@ -32,8 +32,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![]((https://nsfsdashboardapp.vercel.app/))
-![]([https://nsfsacademydevli.vercel.app/))
+![](https://nsfsacademydevli.vercel.app/)
 
 
 
