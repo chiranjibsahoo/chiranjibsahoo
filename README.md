@@ -44,10 +44,11 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+##
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31obfjlxacjwnzzt5slxm3tih45y)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31obfjlxacjwnzzt5slxm3tih45y&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31obfjlxacjwnzzt5slxm3tih45y&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31obfjlxacjwnzzt5slxm3tih45y&unique={true|1|on|yes})
+
+##
 
 <!-- Snake Game Repo View -->
 
