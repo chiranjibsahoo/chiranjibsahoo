@@ -75,17 +75,3 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 ### 🔝 Top Contributed Repo
 ![](https://nsfsacademydevli.vercel.app/)
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sparkfulmind07/sparkfulmind07/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sparkfulmind07/sparkfulmind07/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sparkfulmind07/sparkfulmind07/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
