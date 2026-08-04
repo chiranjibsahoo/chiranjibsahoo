@@ -17,7 +17,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 [![Chiranjib Sahoo YouTube Channel](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=red&label=Chiranjib%20Sahoo&labelColor=white
 )](https://www.youtube.com/@chiranjibsahoo7) [![Sparkful Mind Youtube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=red&label=Sparkful%20Mind&labelColor=white
-))](https://x.com/SparkfulMind)
+)](https://x.com/SparkfulMind)
 [![Sparkful Mind X](https://img.shields.io/badge/X-black?logo=X&logoColor=black&label=Sparkful%20Mind&labelColor=white
 )](https://x.com/SparkfulMind) [![Chiranib Sahoo X](https://img.shields.io/badge/X-black?logo=X&logoColor=black&label=Chiranjib%20Sahoo&labelColor=white
 )](https://x.com/Chiranjib7Sahoo)
