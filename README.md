@@ -46,7 +46,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 ##
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31obfjlxacjwnzzt5slxm3tih45y&count={1})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31obfjlxacjwnzzt5slxm3tih45y)
 
 <!-- Snake Game Repo View -->
 
