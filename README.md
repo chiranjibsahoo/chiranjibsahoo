@@ -1,7 +1,5 @@
 # 💫 Hi 👋, I'm Chiranjib Sahoo
-**A passionate High School Student || AI Enthusiast and Learner || India** <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+**A passionate High School Student || AI Enthusiast and Learner || India** 
 
 Email Me 👉 ✉️ **chiranjibsahoo2010@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -12,6 +10,10 @@ Email Me 👉 ✉️ **chiranjibsahoo2010@gmail.com** For Collaboration/Project 
 - 😄 **Pronouns:** Chiru
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - 🏆 **Achievments:** Class 10th Board Exam School Topper with **97.4%** and Active Music Performer
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ## 🔗 I am a Content Creator over Music and Self Improvement. 😊😊
 
@@ -25,6 +27,30 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 )](https://x.com/Chiranjib7Sahoo)
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
 
 <!-- Snake Game Repo View -->
 
@@ -60,29 +86,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sparkfulmind07/sparkfulmind07/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
 
-###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sparkfulmind07/sparkfulmind07/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -115,10 +119,6 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 </picture>
 
 ###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
 
